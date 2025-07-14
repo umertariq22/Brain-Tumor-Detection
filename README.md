@@ -10,6 +10,7 @@ brain-tumor-classification/
 │
 ├── brain-tumor-classification.ipynb   # Jupyter notebook with complete code
 ├── README.md                          # Project overview and usage
+├── requirements.txt                          # Project Requirements
 ```
 
 ## 📌 Features
