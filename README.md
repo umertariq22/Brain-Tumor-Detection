@@ -59,10 +59,14 @@ The dataset contains MRI images categorized into:
 
 ## ✅ Results
 
-- **Training Accuracy:** ~99%
-- **Validation Accuracy:** ~95-98%
-- **Model:** CNN with data augmentation
-- Confusion matrix and class-wise accuracy indicate robust performance across tumor types.
+The following models were trained and evaluated:
+
+| Model  | Accuracy |
+|--------|----------|
+| ANN    | 59%      |
+| CNN    | 94%      |
+| VGG19  | 96%      |
+
 
 ## 📈 Sample Visualization
 
